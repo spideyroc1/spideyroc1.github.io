@@ -1,6 +1,18 @@
-h1 {
-    color:blue;
-    font-family:verdana;
-    font-size:300%;
-	text-align:center;
+* { margin: 0; }
+#header-color {
+    background-color: #4C8BA1;
+	width: 100%;
+	height: 100px;
+	overflow-x: hidden;
+	border: #4C8BA1;
+	content-align: center;
 }
+
+#header-name {
+	text-align: center;
+	font-size: 200%;
+	font-family: verdana;
+	height: 10px;
+	padding-top: 35px;
+}
+
